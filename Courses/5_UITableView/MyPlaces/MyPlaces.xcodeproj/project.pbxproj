@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C1B98572414E81800A6187C /* Placel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C1B98562414E81800A6187C /* Placel.swift */; };
+		3C4A8F5F2414E3320017F526 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4A8F5E2414E3320017F526 /* CustomTableViewCell.swift */; };
 		3C81D5A023710A0D002ADDE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C81D59F23710A0D002ADDE3 /* AppDelegate.swift */; };
 		3C81D5A223710A0D002ADDE3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C81D5A123710A0D002ADDE3 /* SceneDelegate.swift */; };
 		3C81D5A723710A0D002ADDE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C81D5A523710A0D002ADDE3 /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C1B98562414E81800A6187C /* Placel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Placel.swift; sourceTree = "<group>"; };
+		3C4A8F5E2414E3320017F526 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		3C81D59C23710A0D002ADDE3 /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C81D59F23710A0D002ADDE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C81D5A123710A0D002ADDE3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				3C81D5AA23710A10002ADDE3 /* LaunchScreen.storyboard */,
 				3C81D5AD23710A10002ADDE3 /* Info.plist */,
 				3C81D5B323711272002ADDE3 /* MainViewController.swift */,
+				3C4A8F5E2414E3320017F526 /* CustomTableViewCell.swift */,
+				3C1B98562414E81800A6187C /* Placel.swift */,
 			);
 			path = MyPlaces;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				3C81D5B423711272002ADDE3 /* MainViewController.swift in Sources */,
 				3C81D5A023710A0D002ADDE3 /* AppDelegate.swift in Sources */,
+				3C1B98572414E81800A6187C /* Placel.swift in Sources */,
+				3C4A8F5F2414E3320017F526 /* CustomTableViewCell.swift in Sources */,
 				3C81D5A223710A0D002ADDE3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
